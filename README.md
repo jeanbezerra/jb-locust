@@ -2,7 +2,7 @@
 
 ## Instalação
 
-### 1.0 - Instalação UV | UVX
+### 1 - Instalação UV | UVX
 
 **1.1 - MacOS/Linux**
 ```sh
