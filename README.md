@@ -2,9 +2,9 @@
 
 ## Instalação
 
-### Instalação UV | UVX
+### 1.0 - Instalação UV | UVX
 
-**MacOS/Linux**
+**1.1 - MacOS/Linux**
 ```sh
 curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
@@ -12,7 +12,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 uv self update
 ```
 
-**Windows**
+**1.2 - Windows**
 ```sh
 powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
 ```
